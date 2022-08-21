@@ -30,3 +30,4 @@ Dashboard.
 
 • Student needs to check the complaint status whereas Admin needs to check the complaint regularly to see whether new
 complaint has been filed or not.
+#TIS #ticktechitsolutions
