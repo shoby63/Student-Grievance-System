@@ -1,6 +1,10 @@
 # Student-Grievance-System
 
-This was a Smart India Hackathon (SIH) project created for Andhra Pradesh State Governament to manage the complaints filed by the Students.
+This was a STUDENT GRIEVANVE  project created alloted to TEAM WD1424 TICKTECH IT SOLUTIONS UNDER 3 MONTHS INTERNSIP.
+
+TEAM- WD1424
+TICKTECH IT SOLUTIONS 
+
 
 •In colleges if anyone wants to raise complaint then one has to write on a paper and wait for the respond to whom it’s
 addressed.
